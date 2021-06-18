@@ -19,5 +19,6 @@ Run command: npm run test
 #To generate report:     
 Run command: npm run report     
 
-#P.S: I am sharing recorded demo for more refernce.Need to have webex player installed on system to see.
+#P.S: I am sharing recorded demo for more refernce.  
+Need to have webex player installed in system to.(Attached with mail)
 
